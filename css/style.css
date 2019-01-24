@@ -1,0 +1,39 @@
+body
+{
+ background-image: url(../images/bg1.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+.counterr{
+	margin: 140px 0;
+	background-color:black;
+}
+.counter_itm{
+padding: 60px 0;
+}
+.counter_itm i{
+	color: white;
+	font-weight: bold;
+	font-size:50px;
+
+}
+.counter_itm p{
+	 color: white;
+   font-weight: 700;
+   font-size: 25px;
+   
+}
+.count_int
+{
+   color: orange;
+   font-weight: 700;
+   font-size: 50px;
+
+}
+.count_A{
+	color: orange;
+   font-weight: 700;
+   font-size: 50px;
+
+
+}
